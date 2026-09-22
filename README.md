@@ -175,4 +175,4 @@ Distributed under the MIT License — see [`LICENSE`](LICENSE) for details.
 
 ## Author
 
-**Ahmed Salah** — [Ahmed Salah Hussein](https://github.com/ahmedsalah1461966-alt)
+**[Ahmed Salah Hussein](https://github.com/ahmedsalah1461966-alt)**
